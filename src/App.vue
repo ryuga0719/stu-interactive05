@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-zinc-900">
     <HomeView />
   </div>
 </template>

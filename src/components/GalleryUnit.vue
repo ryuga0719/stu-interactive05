@@ -51,7 +51,7 @@ const startRollOver = (e) => {
   isPlaying.value = true;
   gsap.to(e.target, {
     objectPosition: "100% center",
-    duration: 8,
+    duration: 6,
     ease: "Power4.out",
     onComplete: completeRollOver(e),
   });
@@ -62,7 +62,7 @@ const startRollOut = (e) => {
   isPlaying.value = true;
   gsap.to(e.target, {
     objectPosition: "0% center",
-    duration: 8,
+    duration: 6,
     ease: "Power4.out",
     onComplete: completeRollOut(e),
   });

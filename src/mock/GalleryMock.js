@@ -11,19 +11,19 @@ export default class GalleryMock {
     },
     {
       title: "Mountain",
-      src: "https://source.unsplash.com/NfPWxC6fUU8",
+      src: "https://source.unsplash.com/-P7-bUhPzHo",
     },
     {
-      title: "Night",
-      src: "https://source.unsplash.com/g5kIy_K8k68",
+      title: "Kyoto",
+      src: "https://source.unsplash.com/_UIN-pFfJ7c",
     },
     {
       title: "Desert",
       src: "https://source.unsplash.com/qWQGk5mdVBU",
     },
     {
-      title: "City",
-      src: "https://source.unsplash.com/cjp-HVsxOF0",
+      title: "Resort",
+      src: "https://source.unsplash.com/MXbM1NrRqtI",
     },
     {
       title: "Night",

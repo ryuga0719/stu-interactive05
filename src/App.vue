@@ -1,16 +1,11 @@
 <template>
   <div class="bg-zinc-900">
-    <HomeView />
+    <GalleryView />
   </div>
 </template>
 
-<script>
-import HomeView from "./components/HomeView.vue";
-export default {
-  components: {
-    HomeView,
-  },
-};
+<script setup>
+import GalleryView from "./views/GalleryView.vue";
 </script>
 
 <style></style>
